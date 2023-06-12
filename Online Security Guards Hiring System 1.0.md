@@ -20,3 +20,10 @@ eval($code); ?>
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/9b24fda4-4fd0-4eb5-b465-8315ef4ceba8)
 
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/fb4e829b-b19a-488e-abbd-f19db61a4087)
+
+![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/2e775a08-950c-46fa-adb3-42d1cd96c90f)
+
+## POC
+
+https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/aa1de286-20ad-422d-a564-cb2f984af26b
+
