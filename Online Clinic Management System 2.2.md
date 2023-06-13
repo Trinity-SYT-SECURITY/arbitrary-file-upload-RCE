@@ -2,7 +2,7 @@
 + Vendor Homepage: https://bigprof.com
 + Software Download Link : https://bigprof.com/appgini/applications/online-clinic-management-system# 
 + Tested on: XAMPP / Windows 10
-+ cause vuln : "..\ocms\admin\images" Uploading malicious php under this directory location can cause RCE
++ cause vuln : "..\ocms\admin\images"、"..\ocms\images" Uploading malicious php under this directory location can cause RCE
 
 POC:
 > whoami
@@ -10,5 +10,6 @@ POC:
 > mkdir book
 > dir
 
-https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/a60b4606-ff38-4319-b52c-337208cd33ae
+
+https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/805de3b7-5b19-4db8-a2e1-f56e7038651f
 
