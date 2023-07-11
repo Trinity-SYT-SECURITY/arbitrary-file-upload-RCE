@@ -7,6 +7,7 @@
   + Username: admin
   + Password: Test@123
 + arbitrary file upload (RCE)
++ CVE ID: CVE-2023-36119
 
 **Affect URL**
 > http://localhost/osghs/admin/images/index.php?cmd=phpinfo();
