@@ -3,6 +3,11 @@
 + Software Download Link : https://bigprof.com/appgini/applications/online-clinic-management-system# 
 + Tested on: XAMPP / Windows 10
 + cause vuln : "..\ocms\admin\images"、"..\ocms\images" Uploading malicious php under this directory location can cause RCE
++ cve id: CVE-2023-36120
++ CVSS v3.1: `AV:A/AC:L/PR:H/UI:R/S:C/C:H/I:H/A:H/E:F/RL:W/RC:R/CR:H/IR:H/AR:H/MAV:A/MAC:L/MPR:H/MUI:R/MS:C/MC:H/MI:H/MA:L`
+
+![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/66cf7dac-6492-43f9-91d9-f68906181cb3)
+
 
 vuln detailed : 
 When an application allows users to upload files to the target server's image directory, it is typically expected to accept only image files.
