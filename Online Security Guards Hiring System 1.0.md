@@ -8,8 +8,8 @@
   + Password: Test@123
 + arbitrary file upload (RCE)
 + CVE ID: CVE-2023-36119
-+ CVSS v3.1 `AV:A/AC:L/PR:H/UI:R/S:C/C:H/I:H/A:L/E:F/RL:W/RC:R/CR:H/IR: H/AR:L/MAV:A/MAC:L/MPR:L/MUI:R/MS:C/MC:H/MI:H/MA:H`
-![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/0b9e17d4-5535-460a-9632-17225394178d)
++ CVSS v3.1 `AV:A/AC:H/PR:H/UI:R/S:C/C:H/I:H/A:H/E:F/RL:W/RC:R/CR:H/IR:H/AR:M/MAV:A/MAC:L/MPR:H/MUI:R/MS:U/MC:H/MI:H/MA:L`
+![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/6449346a-c778-45aa-ac64-4f09fd7caed2)
 
 
 **Affect URL**
