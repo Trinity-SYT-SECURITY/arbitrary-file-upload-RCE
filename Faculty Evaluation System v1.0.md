@@ -4,7 +4,8 @@
 + Software Link: https://www.sourcecodester.com/sites/default/files/download/oretnom23/eval_2.zip
 + Tested on: XAMPP + win10
 + XSS vuln CVE ID: CVE-2023-36118
-+ XSS vuln CVSS-> `CVSS v3.1 AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:L/E:U/RL:W/RC:R/CR:L/IR: L/AR:L/MAV:L/MAC:L/MPR:H/MUI:R/MS:U/MC:L/MI:L/MA:L`
++ CVSS v3.1 `AV:L/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:L/E:F/RL:W/RC:R/CR:L/IR: L/AR:L/MAV:L/MAC:L/MPR:H/MUI:R/MS:U/MC:L/MI:L/MA:L`
+![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/b1dc4678-a5d8-43b4-804a-a7f75b40115e)
 
 First, create a simple PHP script to trigger the vulnerability. The following PHP code will utilize the GET parameter and execute it through the eval() function:
 
