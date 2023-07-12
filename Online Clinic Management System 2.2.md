@@ -1,4 +1,4 @@
-# Exploit Title: Online Clinic Management System 2.2 - RCE
+# Online Clinic Management System 2.2 - RCE
 + Vendor Homepage: https://bigprof.com
 + Software Download Link : https://bigprof.com/appgini/applications/online-clinic-management-system# 
 + Tested on: XAMPP / Windows 10
