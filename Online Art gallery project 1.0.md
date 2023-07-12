@@ -12,6 +12,7 @@
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/24097bde-8a74-4141-bb6c-577d2d82f129)
 
 You can upload files arbitrarily under the "Slider Content" item on this page. If you upload malicious php, you can perform arbitrary operations on the remote machine
+
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/46f4ba70-462a-4307-9165-3f2e7ef05a27)
 
 ## POC :
