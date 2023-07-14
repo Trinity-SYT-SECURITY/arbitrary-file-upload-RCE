@@ -7,7 +7,8 @@
   + Username: admin
   + Password: Test@123
 + CVE ID: CVE-2023-36119
-![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/74a83faa-d76f-4bf1-9e6d-43dd6ea9d612)
++ CVSS 3.1: `AV:L/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:L/E:F/RL:W/RC:R/CR:H/IR:M/AR:M/MAV:L/MAC:H/MPR:L/MUI:R/MS:U/MC:L/MI:L/MA:L`
+![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/101f9244-d698-4f4c-99ab-da20b6f08e05)
 
 **Affecr URL**
 + XSS
