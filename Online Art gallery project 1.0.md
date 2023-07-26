@@ -11,7 +11,6 @@
 + https://feedly.com/cve/CVE-2023-37152
 + https://nvd.nist.gov/vuln/detail/CVE-2023-37152
 
-![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/24097bde-8a74-4141-bb6c-577d2d82f129)
 
 You can upload files arbitrarily under the "Slider Content" item on this page. If you upload malicious php, you can perform arbitrary operations on the remote machine
 
