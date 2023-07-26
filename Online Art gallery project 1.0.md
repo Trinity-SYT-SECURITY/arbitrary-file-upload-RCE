@@ -6,7 +6,9 @@
 + vuln : Arbitrary File Upload cause RCE
 + influence path : http://localhost/artg/admin/adminHome.php
 + cve id: CVE-2023-37152
-+ CVSS v3.1 `AV:A/AC:L/PR:H/UI:R/S:C/C:H/I:H/A:L/E:F/RL:W/RC:R/CR:H/IR:H/AR:H/MAV:A/MAC:L/MPR:H/MUI:R/MS:C/MC:H/MI:H/MA:L`
++ CVSS 3.1 /AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
++ CVSS 9.8
++ https://feedly.com/cve/CVE-2023-37152
 + https://nvd.nist.gov/vuln/detail/CVE-2023-37152
 
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/24097bde-8a74-4141-bb6c-577d2d82f129)
