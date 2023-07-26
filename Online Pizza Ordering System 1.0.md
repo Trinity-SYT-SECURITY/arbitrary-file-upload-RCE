@@ -11,7 +11,6 @@
 + https://www.tenable.com/cve/CVE-2023-37151
 + https://nvd.nist.gov/vuln/detail/CVE-2023-37151
 
-![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/2922f8d3-f54d-48eb-977e-ca93a4af72ad)
 
 There is an option to upload pictures under this webpage. There is already a problem report of CVE-2023-2246, which is the problem of uploading arbitrary files. You can use this to upload malicious PHP to achieve RCE
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/2604c109-a34a-45ce-b3a3-63ee422d65be)
