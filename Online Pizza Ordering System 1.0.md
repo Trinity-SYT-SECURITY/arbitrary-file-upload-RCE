@@ -5,7 +5,7 @@
 + Tested on: XAMPP + win10 + kali
 + vuln : arbitrary file upload cause RCE
 + Affected position : http://localhost/opos/admin/index.php?page=site_settings
-+ cve id: CVE-2023-37151
++ cve id: 
 + CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 + cvss  9.8
 + https://www.tenable.com/cve/CVE-2023-37151
